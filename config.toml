@@ -1,6 +1,6 @@
 theme = "edidor"
 title = "Edidor Demo"
-baseurl = "https://your-site-url"
+baseurl = "https://clever-apple-29ddf.netlify.app/"
 AuthorName = "Jon Doe"
 languageCode = "en"
 defaultContentLanguage = "en"
